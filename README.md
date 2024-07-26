@@ -29,6 +29,8 @@ O objetivo desse desafio foi de fato colocar em prática o que aprendemos sobre 
 -   Verifiquei as principais características que influenciam as previsões, que no meu caso foram a 'umidade' e 'total de itens no caminhão', esse último, sendo o conjunto de dados com maior importancia para os resultados mais apurados.
 -   Após ajustes no modelo e re-treino, obtive um desempenho satisfatório, com 95,67% de precisão do meu modelo.
 
+![image](https://github.com/SabrinaAll/lab-aws-sagemaker-canvas-estoque/blob/main/resultado%20treinamento.png)
+
 ### 4. Prever
 
 -   Meu modelo foi treinado e re-treinado para previsão de estoque, buscando prever a porcentagem de 'Atrasos' e de entregas 'Na Hora', observando quais propriedades eram mais relevantes para essa analise.
